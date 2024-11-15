@@ -29,4 +29,4 @@
 
 <h2 align="center" >Video:</h2>
 
-[Video Linki]()
+[Video Linki](https://www.linkedin.com/feed/update/urn:li:activity:7263174035738349570/)
